@@ -4,8 +4,6 @@ This is a demo utilizing Cloud Function (Google Cloud Platform) to automate the 
 
 ## System Overview
 
-Foobar is a Python library for dealing with word pluralization.
-
 <img src="img\system-diagram.png" style="zoom:50%;"/>
 
 
